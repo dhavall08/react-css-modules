@@ -1,0 +1,13 @@
+.font-mono {
+  font-family: monospace;
+}
+
+.paragraph {
+  text-decoration: underline;
+  color: gray;
+  composes: font-mono;
+}
+
+.paragraph p {
+  font-size: 18px;
+}

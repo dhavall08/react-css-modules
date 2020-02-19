@@ -1,0 +1,8 @@
+.paragraph {
+  text-decoration: underline;
+  color: gray;
+}
+
+.paragraph p {
+  font-size: 10px;
+}
